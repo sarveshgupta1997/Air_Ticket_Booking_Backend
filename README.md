@@ -1,4 +1,4 @@
-# WorkOut.com
+# Air Ticket Booking
 
 Air Ticket Booking is a simple airplane ticket booking system, where flights can be created and user can register and book them.
 
